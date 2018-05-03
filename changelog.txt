@@ -1,4 +1,0 @@
-Initial Version
-
-+ Added Menu
-+ Testing Launcher
